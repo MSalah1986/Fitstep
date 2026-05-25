@@ -15,4 +15,4 @@ The platform is designed to be scalable and secure:
 FitStep directly aligns with Cigna’s vision for preventive health:
  Promotes wellness and reduces long-term healthcare costs.
  Engages users in a competitive, fun, and healthy environment.
- Provides valuable, anonymous insights into activity trends to improve health outcomes
+ Provides valuable, anonymous insights into activity trends to improve health outcomes.
